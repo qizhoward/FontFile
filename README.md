@@ -8,7 +8,7 @@
 Explain：                   </br>
 说明：                       </br>
 
-not finish                  </br>
+Not finish                  </br>
 字体还没制作完成              </br>
 
 
@@ -16,7 +16,7 @@ not finish                  </br>
 
 
 
-note:before using it careful </br>
+NOTE:Before using it careful </br>
 附：用于彩色印刷前请自己注意　　　</br>
 －－－－－           </br>
 
