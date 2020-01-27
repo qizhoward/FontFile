@@ -1,7 +1,5 @@
 # FontFile
 字体文件
-
-version：0.1
           
 Describe:              </br>
 ----------
@@ -64,5 +62,5 @@ Near updata time: 2020.01.27 15:42  /  January 27th,2020  </br>
 最近一次更新时间：2020.01.27 15:42
 
 
-Next updata time:2020.                          </br>
-下次更新时间：2020.                               </br>
+Next updata time:                          </br>
+下次更新时间：
