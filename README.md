@@ -1,6 +1,7 @@
 # FontFile
 字体文件
 
+version：0.1
           
 Describe:              </br>
 ----------
@@ -39,7 +40,7 @@ Features: </br>
 
 Explain：                   </br>
 ----------
-          说明：                       </br>
+说明：                       </br>
 
 
 
